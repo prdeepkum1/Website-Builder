@@ -3,6 +3,8 @@
 An AI-powered website builder that generates modern website layouts and content using AI. Users can sign in with Google, generate website ideas, and preview responsive UI designs.
 
 ---
+## Live Demo
+https://website-builder-frontend-in41.onrender.com/
 
 ## Features
 
@@ -175,5 +177,3 @@ npm run dev
 
 ---
 
-## Live Demo
-https://website-builder-frontend-in41.onrender.com/
