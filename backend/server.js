@@ -18,7 +18,7 @@ app.use(express.json());
 // app.use(cookieParser())
 // connected backend to frontend
 app.use(cors({
-    origin:"http://localhost:5173",
+    origin:"https://website-builder-frontend-in41.onrender.com",
     credentials:true
 }))
 
