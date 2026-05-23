@@ -5,7 +5,7 @@
 import { generateResponse } from "../cofig/openRouter.js";
 import User from "../models/userModel.js";
 import { Website } from "../models/websiteModel.js";
-import extractJson from "../utils/extractJson.js";
+import extractJson from "../utils/extractjson.js";
 import slugify from "slugify";
 
 const masterPrompt = `
